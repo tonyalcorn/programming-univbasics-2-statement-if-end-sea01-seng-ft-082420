@@ -1,1 +1,1 @@
-Time.now.year
+puts Time.now.year
